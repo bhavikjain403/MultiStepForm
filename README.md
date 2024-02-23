@@ -4,10 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Create .env
 
-Create a .env file in the root directory of the project\
-Go to [https://countrystatecity.in](https://countrystatecity.in) and request for API key\
+Create a .env file in the root directory of the project.\
+Go to [https://countrystatecity.in](https://countrystatecity.in) and request for API key.\
 In the .env file enter the following:\
-`REACT_APP_API_KEY = YOUR_API_KEY_OBTAINED`\
+`REACT_APP_API_KEY = YOUR_API_KEY_OBTAINED`
 
 
 ## Available Scripts
